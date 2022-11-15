@@ -19,6 +19,7 @@
 
 //Criando variável utilizando inferência de tipo
     var name2 = "Amanda Oliveira"
+    
 
 
 /*
@@ -119,4 +120,64 @@ DICAS:
 
     print(Int.max)
     print(Int.min)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
